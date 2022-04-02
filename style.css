@@ -21,6 +21,11 @@
     z-index: 9;
     top: 0;
     left: 0;
+    background-size: auto;
+    background-image: url(img/sideBg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-color: rgb(92, 76, 63);
     overflow: hidden;
     padding-top: 20px;
